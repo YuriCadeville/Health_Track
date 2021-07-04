@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(#6FCF97, #2D9CDB);
+    height: 100vh;
+    width: 100vw;
+  }
+
+  .nome{
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    text-align: center;
+    height: 15vh;
+    font-size: 80px;
+    font-family: 'Ranga', cursive;
+    color: hsla(0, 0%, 100%, 0.8);
+}
+
+.login{
+  text-align: center;
+  color: hsla(0, 0%, 100%, 0.8);
+  font-size: 30px;
+  font-family: 'Rasa', serif;
+}
+
+.formulario{
+  margin-top: 15vh;
+  margin-bottom: unset;
+  width: 60vh;
+  margin-left: 75vh;
+}
+
+.mb-3{
+  color: hsla(0, 0%, 100%, 0.8);
+  font-size: 20px;
+  font-family: 'Rasa', serif; 
+}
+
+.btn{
+  background-color:hsl(145, 100%, 33%) !important;
+  font-family: 'Rasa', serif;
+  border-radius: 30px;
+  font-size: 20px;
+  padding: 10px 20px;
+  margin-left: 17vh;
+}

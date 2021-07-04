@@ -1,0 +1,63 @@
+body {
+    background-image: linear-gradient(#6FCF97, #2D9CDB);
+    height: 90vh;
+    background-repeat: no-repeat;
+    /* width: 100vw; */
+  }
+
+  .Cadastre-se{
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    text-align: center;
+    height: 15vh;
+    font-size: 80px;
+    font-family: 'Rasa', serif;
+    color: hsla(0, 0%, 100%, 0.8);
+}
+.botao_f{
+    /* margin-top: 20vh; */
+    margin-bottom: 2vh;
+    text-align: center;
+
+  
+}
+
+.botao_g{
+    /* margin-top: 20vh; */
+    /* margin-bottom: 2vh; */
+    text-align: center;
+    
+  
+}
+
+.btn{
+    /* background-color: #219653 !important; */
+    background-color:hsl(145, 100%, 33%) !important;
+    font-family: 'Rasa', serif;
+    border-radius: 30px;
+    font-size: x-large;
+    padding: 10px 20px;
+}
+
+.formulario{
+    margin-top: 7vh;
+    margin-bottom: unset;
+    width: 60vh;
+    margin-left: 72vh;
+  }
+
+  .mb-3{
+    color: hsla(0, 0%, 100%, 0.8);
+    font-size: 17px;
+    font-family: 'Rasa', serif; 
+  }
+
+  .btn_2{
+    background-color:hsl(145, 100%, 33%) !important;
+    font-family: 'Rasa', serif;
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-left: 23vh;
+    
+  }

@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(#6FCF97, #2D9CDB);
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100vw;
+  }
+
+.nome{
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    text-align: center;
+    height: 15vh;
+    font-size: 80px;
+    font-family: 'Ranga', cursive;
+    color: hsla(0, 0%, 100%, 0.8);
+}
+
+.intro{
+    text-align: center;
+    color: hsla(0, 0%, 100%, 0.8);
+    font-size: 30px;
+    font-family: 'Rasa', serif;
+}
+
+.slogan{
+    margin-top: 4vh;
+    text-align: center;
+    color: hsla(0, 0%, 100%, 0.8);
+    font-size: 30px;
+    font-family: 'Rasa', serif;
+}
+
+.botao{
+      margin-top: 20vh;
+      margin-bottom: 3vh;
+      text-align: center;
+    
+}
+
+.botao_2{
+    text-align: center;
+    
+}
+
+.btn{
+    /* background-color: #219653 !important; */
+    background-color:hsl(145, 100%, 33%) !important;
+    font-family: 'Rasa', serif;
+    border-radius: 30px;
+    font-size: x-large;
+    padding: 10px 20px;
+}
+
+
